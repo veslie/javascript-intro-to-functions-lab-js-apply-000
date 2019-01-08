@@ -6,7 +6,3 @@ function whisper(string)
 {
   return string.toLowerCase()
 }
-funtion longShout(string)
-{
-  funtion longShout(string)
-}
