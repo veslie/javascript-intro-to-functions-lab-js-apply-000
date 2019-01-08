@@ -8,5 +8,5 @@ function whisper(string)
 }
 funtion longShout(string)
 {
-  console.log() string.tolongShort()
+  console.log(string.tolongShort())
 }
