@@ -8,5 +8,5 @@ function whisper(string)
 }
 funtion longShout(string)
 {
-  log longShout(string)
+  funtion longShout(string)
 }
